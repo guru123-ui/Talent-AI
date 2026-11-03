@@ -1,0 +1,6 @@
+{
+  "name": "TalentAI - AI-Powered Applicant Tracking System",
+  "description": "Production-oriented AI-Powered ATS automating recruitment lifecycles with Gemini AI resume scoring, semantic search, pipeline Kanban, interview intelligence, fairness analytics, and reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
